@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+#roulette{
+   font-size: 100px;
+   background-color: black;
+   color: white;
+   margin: 0 40% 10px 40%;
+}    
+
+#button{
+    font-size: 30px;
+    width: 120px;
+    height: 40px;
+}
+
+#number{
+
+    width: 25px;
+    height: 25px;
+}
