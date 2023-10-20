@@ -1,1 +1,1 @@
-# Bingo
+# Bingo（司会用）
